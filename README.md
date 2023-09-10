@@ -3,7 +3,7 @@
 </div>
 
 ### :man_technologist: Обо мне:
-Junior Frontend Developer из России.
+Junior Developer из России.
 - :telescope: Ищу работу и занимаюсь собственными проектами.
 - :zap:В свободное время решаю задачи на [Codewars](https://www.codewars.com/users/DesperatePerson).
 - :mailbox:Связаться со мной: desperate.person.dev@gmail.com
