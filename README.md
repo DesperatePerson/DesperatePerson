@@ -5,7 +5,7 @@
 ### :man_technologist: Обо мне:
 Developer из России.
 - :telescope: Ищу работу и занимаюсь собственными проектами.
-- :zap:В свободное время решаю задачи на [Codewars](https://www.codewars.com/users/DesperatePerson) / [Leetcode](https://leetcode.com/DesperatePerson/).
+- :zap:В свободное время решаю задачи на [Codewars](https://www.codewars.com/users/DesperatePerson) / [Leetcode](https://leetcode.com/u/DesperatePerson/).
 - :mailbox:Связаться со мной: desperate.person.dev@gmail.com
 
 ---
