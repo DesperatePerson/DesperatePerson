@@ -3,15 +3,15 @@
 </div>
 
 ### :man_technologist: Обо мне:
-Developer из России.
+Разработчик из России.
 - :telescope: Ищу работу и занимаюсь собственными проектами.
-- :zap:В свободное время решаю задачи на [Codewars](https://www.codewars.com/users/DesperatePerson) / [Leetcode](https://leetcode.com/u/DesperatePerson/).
-- :mailbox:Связаться со мной: desperate.person.dev@gmail.com
+- :zap: В свободное время решаю задачи на [Leetcode](https://leetcode.com/u/DesperatePerson/) / [Codewars](https://www.codewars.com/users/DesperatePerson).
+- :mailbox: Связаться со мной: desperate.person.dev@gmail.com
 
 ---
 
 ### :hammer_and_wrench: Мой стэк технологий:
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript"/> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git"/> <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github"/> <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=Sass"/> <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
